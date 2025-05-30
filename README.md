@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/venuthelord/LeetCode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/venuthelord/LeetCode/tree/master/0200-number-of-islands) |
 ## Depth-First Search
 |  |
@@ -20,5 +21,10 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/venuthelord/LeetCode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/venuthelord/LeetCode/tree/master/0200-number-of-islands) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/venuthelord/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/venuthelord/LeetCode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/venuthelord/LeetCode/tree/master/0200-number-of-islands) |
+| [1395-minimum-time-visiting-all-points](https://github.com/venuthelord/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -27,4 +28,12 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/venuthelord/LeetCode/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/venuthelord/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/venuthelord/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->

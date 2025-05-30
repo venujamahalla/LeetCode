@@ -11,6 +11,7 @@
 | [0219-contains-duplicate-ii](https://github.com/venuthelord/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0875-longest-mountain-in-array](https://github.com/venuthelord/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/venuthelord/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1306-minimum-absolute-difference](https://github.com/venuthelord/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1395-minimum-time-visiting-all-points](https://github.com/venuthelord/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 ## Depth-First Search
 |  |
@@ -57,6 +58,7 @@
 | ------- |
 | [0015-3sum](https://github.com/venuthelord/LeetCode/tree/master/0015-3sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/venuthelord/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1306-minimum-absolute-difference](https://github.com/venuthelord/LeetCode/tree/master/1306-minimum-absolute-difference) |
 ## Enumeration
 |  |
 | ------- |

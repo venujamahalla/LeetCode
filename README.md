@@ -8,6 +8,7 @@
 | [0054-spiral-matrix](https://github.com/venuthelord/LeetCode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venuthelord/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/venuthelord/LeetCode/tree/master/0200-number-of-islands) |
+| [0219-contains-duplicate-ii](https://github.com/venuthelord/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0875-longest-mountain-in-array](https://github.com/venuthelord/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/venuthelord/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1395-minimum-time-visiting-all-points](https://github.com/venuthelord/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -60,4 +61,12 @@
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/venuthelord/LeetCode/tree/master/0875-longest-mountain-in-array) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/venuthelord/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/venuthelord/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->

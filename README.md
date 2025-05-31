@@ -41,6 +41,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/venuthelord/LeetCode/tree/master/0070-climbing-stairs) |
 | [1395-minimum-time-visiting-all-points](https://github.com/venuthelord/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 ## Geometry
 |  |
@@ -49,6 +50,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/venuthelord/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venuthelord/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/venuthelord/LeetCode/tree/master/0322-coin-change) |
 | [0875-longest-mountain-in-array](https://github.com/venuthelord/LeetCode/tree/master/0875-longest-mountain-in-array) |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/venuthelord/LeetCode/tree/master/0136-single-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/venuthelord/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

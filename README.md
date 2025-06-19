@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/venuthelord/LeetCode/tree/master/0015-3sum) |
+| [0046-permutations](https://github.com/venuthelord/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/venuthelord/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/venuthelord/LeetCode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/venuthelord/LeetCode/tree/master/0078-subsets) |
@@ -111,6 +112,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/venuthelord/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/venuthelord/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/venuthelord/LeetCode/tree/master/0078-subsets) |
 | [0800-letter-case-permutation](https://github.com/venuthelord/LeetCode/tree/master/0800-letter-case-permutation) |

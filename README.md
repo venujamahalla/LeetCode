@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/venuthelord/LeetCode/tree/master/0136-single-number) |
+| [0800-letter-case-permutation](https://github.com/venuthelord/LeetCode/tree/master/0800-letter-case-permutation) |
 ## Memoization
 |  |
 | ------- |
@@ -101,4 +102,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/venuthelord/LeetCode/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0800-letter-case-permutation](https://github.com/venuthelord/LeetCode/tree/master/0800-letter-case-permutation) |
+## Backtracking
+|  |
+| ------- |
+| [0800-letter-case-permutation](https://github.com/venuthelord/LeetCode/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->
